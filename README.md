@@ -13,3 +13,9 @@ This project provides the tools and guidance you need to convert your PDFs into 
 Here's a sneak peek at what the application looks like:
 
 ![App Screenshot](/Screenshot.png)
+
+---
+
+**💾 Don't forget to save the file as `.pyw` to run it as a desktop app without opening a console window!**
+
+---
