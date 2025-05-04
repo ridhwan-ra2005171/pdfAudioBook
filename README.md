@@ -5,3 +5,11 @@ Tired of staring at screens? **pdfAudioBook** lets you transform your PDF docume
 **Imagine:** Listening to that lengthy report during your morning walk, catching up on research papers while doing chores, or enjoying your favorite ebooks without straining your eyes!
 
 This project provides the tools and guidance you need to convert your PDFs into spoken audio. Dive in and experience the convenience of hands-free reading!
+
+---
+
+## 📸 Preview
+
+Here's a sneak peek at what the application looks like:
+
+![App Screenshot](assets/screenshot.png)
