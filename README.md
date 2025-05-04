@@ -12,4 +12,4 @@ This project provides the tools and guidance you need to convert your PDFs into 
 
 Here's a sneak peek at what the application looks like:
 
-![App Screenshot](screenshot.png)
+![App Screenshot](/screenshot.png)
